@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "2ea970b66ff23e96e637d067",
+  "owner": "hhhgjpduk",
+  "repo": "page-eb9f188fc046e0520a445992",
+  "title": "私人云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "eb9f188fc046e0520a445992",
+      "a": "私人云",
+      "b": "2027官方最新地址导航",
+      "entity": "私人云",
+      "brand": "私人云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "6f701c4829a9eb1d35d91ffbe82780b69b83dc55225958c158b910a2f97a50a4",
+      "content": {
+        "primary_entity": "私人云",
+        "keyword1": "私人云",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，手机、电脑与路由器各有对应方案，配置时以客户端文档为准。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "选定套餐后按客户端文档导入订阅，即可开始使用私人云加速服务。",
+          "AI_CLOSING_TITLE": "开始配置私人云",
+          "AI_DESCRIPTION": "，私人云提供基础版、旗舰版与团队版三档套餐，分别面向轻度浏览、多设备流媒体和团队协作场景。基础版每月 100GB 流量、3 台设备在线，旗舰版提升至 300GB 与 5 台设备并加入 IPLC 专线，团队版则覆盖 20 台设备与 1000GB 流量。选择时先确认常用设备数量与月均用量，再对照订阅周期决定月付或年付。",
+          "AI_FEATURES_INTRO": "从套餐差异、设备数量与订阅周期三个方面，快速判断适合自己的私人云方案。",
+          "AI_FEATURES_TITLE": "私人云套餐怎么选",
+          "AI_FEATURE_TEXT_1": "基础版适合 1 至 3 台设备轻度使用，旗舰版适配 5 台设备与流媒体，团队版支持 20 台设备协作。",
+          "AI_FEATURE_TEXT_2": "同一账号在手机、平板、电脑上可按客户端文档配置订阅，设备数量上限决定可同时登录的终端数。",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，年付折算更省，基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850。",
+          "AI_FEATURE_TITLE_1": "套餐档位差异",
+          "AI_FEATURE_TITLE_2": "设备数量匹配",
+          "AI_FEATURE_TITLE_3": "订阅周期选择",
+          "AI_GUIDE_INTRO": "按选择服务、确认适配、配置订阅三步完成私人云上手。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_HERO_INTRO": "私人云为多设备用户提供灵活的海外加速订阅，基础版、旗舰版与团队版分别对应不同流量与设备上限。按客户端文档导入订阅后，即可在手机、电脑或路由器上使用。",
+          "AI_HERO_SUBTITLE": "灵活套餐，多端加速",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "流量从 100GB 到 1000GB 可选",
+          "AI_HIGHLIGHT_3": "月付年付灵活，年付更省",
+          "AI_PLANS_INTRO": "基础版 ¥15/月适合轻度浏览，旗舰版 ¥35/月适配流媒体与游戏，团队版 ¥85/月面向多设备与团队协作，年付分别为 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与月均流量，在基础版、旗舰版和团队版之间选定订阅档位。",
+          "AI_STEP_TEXT_2": "查看所选客户端的适配要求，确认系统版本与网络环境满足配置条件。",
+          "AI_STEP_TEXT_3": "依照对应客户端文档导入订阅信息，保存后连接节点即可使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "私人云多端加速订阅",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备；团队版每月 1000GB、支持 20 台设备。可先估算常用设备数与月流量再选择。",
+          "AI_FAQ_ANSWER_2": "在客户端中新建订阅，粘贴购买后获得的订阅地址，保存并更新节点列表即可。不同客户端导入方式略有差异，可参考对应客户端文档操作。",
+          "AI_FAQ_ANSWER_3": "可以，三档套餐都提供按年付选项：基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，比按月付费更划算。",
+          "AI_FAQ_ANSWER_4": "旗舰版包含 IPLC 专线游戏加速优化与全节点原生流媒体解锁，适合对延迟和流媒体有较高要求的用户；基础版提供普通线路节点池。",
+          "AI_FAQ_ANSWER_5": "设备数量按套餐限制，基础版 3 台、旗舰版 5 台、团队版 20 台。超出设备数的需求可选择更高档套餐。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "私人云三档套餐在流量和设备数上有什么区别？",
+          "AI_FAQ_QUESTION_2": "如何把订阅导入客户端？",
+          "AI_FAQ_QUESTION_3": "可以按年付费吗？",
+          "AI_FAQ_QUESTION_4": "旗舰版比基础版多了哪些线路优势？",
+          "AI_FAQ_QUESTION_5": "同时在线设备数有限制吗？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "alzpikf.cn",
+    "host": "alzpikf.cn"
+  },
+  "file_hashes": {
+    "index.html": "bbf2cbae7f0a0e7bec9bb54c236b41c2b65275699b10c0f59c7e228acf84dec0",
+    "sitemap.xml": "46806a92d1dfb5df7587285e06524a8c346f90a666c435785663ddb40a4f1a13",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "bd1448cb2864dd39186413955c8ceac5a922bf325c0ac08abd88b08654ced4bc",
+    "robots.txt": "ebe74dcc7b2e99538376019ca79356410ede8ad0ecd30f50cd8c3aa6e4ded79c",
+    "9f68f8794fe896bbb9a9aac932d34bb2.txt": "3365b2a995512304556058318d74683e5ea8a383d20aa419564d66ba497139ae"
+  },
+  "revision": "faf2746efb16b333e85018a8c352cf5f58b2684b6457a5e2d4266ea1e23c944c"
+}
